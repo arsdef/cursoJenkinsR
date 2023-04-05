@@ -8,8 +8,8 @@ pipeline
 		{
 			steps
 			{
-				sh "java --version"
-				sh "git --version"
+				sh 'java --versio'
+				sh 'git --version
 			}
 		}
 	}
